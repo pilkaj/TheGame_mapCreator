@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\jakub\documents\visual studio 2015\projects\thegame_mapcreator\thegame_mapcreator\main.c(95): warning C4026: function declared with formal parameter list
+  TheGame_mapCreator.vcxproj -> C:\Users\jakub\Documents\Visual Studio 2015\Projects\TheGame_mapCreator\Debug\TheGame_mapCreator.exe
+  TheGame_mapCreator.vcxproj -> C:\Users\jakub\Documents\Visual Studio 2015\Projects\TheGame_mapCreator\Debug\TheGame_mapCreator.pdb (Full PDB)
